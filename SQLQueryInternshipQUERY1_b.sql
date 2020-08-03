@@ -1,4 +1,5 @@
-Display the current home value for each property in (Display a list of all property names and their property id’s for Owner Id: 1426)
+1. Display a list of all property names and their property id’s for Owner Id: 1426.
+2. Display the current home value for the property in (1)
 
 
 USE Keys;
