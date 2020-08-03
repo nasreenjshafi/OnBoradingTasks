@@ -1,3 +1,7 @@
+Display a list of all property names and their property id’s for Owner Id: 1426 and Display all property names, current tenants first and last names and 
+rental payments per week/ fortnight/month for the same.
+
+
 USE Keys;
 GO
 
