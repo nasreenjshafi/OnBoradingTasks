@@ -1,3 +1,8 @@
+Display a list of all property names and their property id’s for Owner Id: 1426, return the
+(Using rental payment amount, rental payment frequency, tenant start date and tenant end date to write a query that returns the sum of all payments 
+from start date to end date)
+
+
 USE Keys;
 GO
 
