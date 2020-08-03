@@ -1,3 +1,6 @@
+Display a list of all property names and their property id’s for Owner Id: 1426 and Display the yield for the same. 
+
+
 USE Keys;
 GO
 
