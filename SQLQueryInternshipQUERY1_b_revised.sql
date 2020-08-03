@@ -1,3 +1,6 @@
+Display the current home value for each property in (Display a list of all property names and their property id’s for Owner Id: 1426)
+
+
 USE Keys;
 GO
 
